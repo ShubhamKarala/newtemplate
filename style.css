@@ -36,6 +36,18 @@ body {
   height: 120px;
 }
 
+.logo_one {
+  flex: 1;
+}
+
+.logo_tow {
+  flex: 1;
+}
+
+.header_content {
+  flex: 4;
+}
+
 .main {
   width: 80%;
   margin: 0 auto;
